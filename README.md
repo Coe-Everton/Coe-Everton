@@ -28,7 +28,7 @@
 
 ### Studying in this moment:
 ![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-008000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![Entendendo Algoritmo](https://img.shields.io/badge/Entendendo%20Algoritmo%20Aditya%20Y.%20Bhargava-e7e7e6?style=for-the-badge&logoColor=white)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=940091&height=120&section=footer"/>
