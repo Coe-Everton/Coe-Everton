@@ -17,20 +17,18 @@
  </div>
 
  ### My skills:
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/Typescript-02050E?style=for-the-badge&logo=Typescript&logoColor=3178c6)&nbsp;
 ![React](https://img.shields.io/badge/React-00599C?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)&nbsp;
+![Express](https://img.shields.io/badge/Express-008000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/tailwindcss-02050E?style=for-the-badge&logo=tailwindcss&logoColor=blue)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-525252?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ### Studying in this moment:
-![C](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express-008000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+
 ![Entendendo Algoritmo](https://img.shields.io/badge/Entendendo%20Algoritmo%20Aditya%20Y.%20Bhargava-e7e7e6?style=for-the-badge&logoColor=white)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=940091&height=120&section=footer"/>
